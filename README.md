@@ -1,3 +1,8 @@
+Equipe:
+Samir FOUNOU(SAMTHP sur le slack)
+David GERARD (Debzow sur le slack)
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
